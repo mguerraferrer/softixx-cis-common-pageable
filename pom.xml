@@ -14,7 +14,7 @@
 	<artifactId>softixx-cis-common-pageable</artifactId>
 	<version>1.0.0</version>
 	<name>softixx-cis-common-pageable</name>
-	<description>Softixx CIS - Common Pageable Project</description>
+	<description>SoftIXX CIS - Common Pageable Project</description>
 	
 	<properties>
 		<java.version>17</java.version>
